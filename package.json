@@ -1,0 +1,24 @@
+{
+  "name": "codemirror-odoo-xml",
+  "version": "0.0.1",
+  "description": "A set of ElementsSpec and AttributesSpec for @codemirror/lang-xml to support Odoo XML",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwarjie/codemirror-odoo-xml.git"
+  },
+  "keywords": ["editor", "code", "codemirror", "odoo-xml", "codemirror-xml"],
+  "author": {
+    "name": "Mark Darius",
+    "email": "macoycoder@gmail.com",
+    "url": "https://github.com/dwarjie"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwarjie/codemirror-odoo-xml/issues"
+  },
+  "homepage": "https://github.com/dwarjie/codemirror-odoo-xml#readme"
+}
